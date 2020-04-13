@@ -1,0 +1,12 @@
+.friend { color:#494d4d; padding:0.1rem 0; border-bottom:1px dashed #ccc;margin-top: 0.3rem;}
+.friend span{font-size: 0.35rem; color: #5477B2;margin-left: 0.1rem;vertical-align:top;}
+.friend .track{color:red;font-size:0.25rem;padding-top:0.1rem;display:inline-block;}
+.friend .icon{width:0.5rem;height: 0.5rem;}
+.friend .img{width: 1.5rem;height:1.5rem;}
+.friend .con{margin-left: 0.6rem;}
+.friend h2{max-height:0.9rem; font-size:0.33rem; overflow:hidden;}
+.friend p{padding-bottom: 0.1rem;}
+.friend{clear:both;}
+.zan{text-align: right;margin-right: 0.3rem;}
+.zan i{width:0.34rem;height:0.24rem;display:inline-block;margin-left: 0.2rem;}
+.zan i img{width:100%;}

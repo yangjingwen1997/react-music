@@ -1,0 +1,11 @@
+.foot-btn{width:100%;height:0.8rem; background:#000; position:fixed; left:0; bottom:0; border-top:1px solid #9e9a95;z-index: 99;}
+.foot-btn ul{width:100%; margin:0 auto;}
+.foot-btn ul li{ display:flex;width:33%;height:100%;justify-content: space-around;float: left;align-items: center}
+
+.foot-btn ul .home{width:0.44rem;height:0.59rem; background:url(../assets/img/black1.png) no-repeat 0 0; background-size:100%; margin-top:0.2rem;}
+.foot-btn ul .write{width:0.82rem;height:0.81rem; background:url(../assets/img/musicb.png) no-repeat 0 0; background-size:100%; margin-left:0.4rem;}
+.foot-btn ul .my{width:0.44rem;height:0.59rem; background:url(../assets/img/myb.png) no-repeat 0 0;background-size:100%; margin-left:0.5rem; margin-top:0.2rem;}
+
+.foot-btn ul .home--active{width:0.44rem;height:0.59rem; background:url(../assets/img/red.png) no-repeat 0 0; background-size:100%; margin-top:0.2rem;}
+.foot-btn ul .write--active{width:0.82rem;height:0.81rem; background:url(../assets/img/musicr.png) no-repeat 0 0; background-size:100%; margin-left:0.4rem;}
+.foot-btn ul .my--active{width:0.44rem;height:0.59rem; background:url(../assets/img/myr.png) no-repeat 0 0;background-size:100%; margin-left:0.5rem; margin-top:0.2rem;}

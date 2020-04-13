@@ -1,0 +1,40 @@
+.Home{height: 14rem;}
+.tuij{
+    height: 0.4rem;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0.4rem;
+    padding-left: 0.1rem;
+    padding-top: 0.1rem;
+    color: #333333;
+    margin:0.1rem 0;
+    font-size: 0.3rem;
+    border-left: 3px solid #D43C33;
+}
+.fm{
+    height: 1.2rem;
+    border-bottom: 1px solid #9E9A95;
+    width: 100%;
+    float: left;
+    padding: 0.2rem;
+}
+.fm .cir{
+    width: 0.8rem;
+    height: 0.8rem;
+    float: left;
+    margin-left: 0.5rem;
+    border: 1px solid #D43C33;
+    border-radius: 50%;
+}
+.fm .cir img{
+    width: 0.5rem;
+    height: 0.5rem;
+    margin-top: 0.15rem;
+    margin-left: 0.16rem;
+}
+.fm .cir .word{
+    font-size: 0.25rem;
+    display: inline-block;
+    margin-left: 0.15rem;
+    margin-top: 0.15rem;
+}

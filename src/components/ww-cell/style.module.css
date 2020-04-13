@@ -1,0 +1,4 @@
+.cell {color:#494d4d; padding:0.2rem; border-bottom:1px dashed #ccc;margin-top: 0.2rem;}
+.cell>h2{max-height:0.9rem; font-size:0.33rem; overflow:hidden;}
+.cell p{max-height:1.8rem; margin-top:0.05rem;overflow:hidden;font-size:0.2rem; }
+.cell{clear: both;}

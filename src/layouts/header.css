@@ -1,0 +1,5 @@
+.nav{width:100%; position:fixed; top:0;left:0; z-index:2; background:#000;}
+.nav ul{width:5.88rem;height:0.8rem; margin:0 auto;}
+.nav ul li{width:1.46rem;height:0.8rem; float:left;}
+.nav ul li a{ display:block;width:1.46rem;height:0.8rem; line-height:0.7rem; text-align:center; font-size:0.3rem; color:#fff;}
+.nav ul .active {height:0.7rem; border-bottom:0.1rem solid red; color:indianred}
